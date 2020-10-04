@@ -27,11 +27,17 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "python"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Python"
+  description = "90%"
 
+[[feature]]
+  icon = "html5"
+  icon_pack = "fas"
+  name = "HTML/CSS"
+  description = "90%"
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
